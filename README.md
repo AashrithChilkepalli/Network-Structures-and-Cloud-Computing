@@ -1,12 +1,6 @@
-# csye6225-fall2018
+# Cloud Computing
 
 Repository for Network structures and Cloud Computing!
-
-# Collaborators
-1. Gokul Anantha Narayanan - ananthanarayanan.g
-2. Aashrith - chilkepalli.a.
-3. Ananda ganesh - balasubramanian.a
-4. Krupashankar - sundararajan.k
 
 # Prerequisites
 1. POSTMAN 
