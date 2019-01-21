@@ -1,6 +1,6 @@
 # Cloud Computing
 
-Repository for Network structures and Cloud Computing!
+Repository for Network structures and Cloud Computing
 
 # Prerequisites
 1. POSTMAN 
@@ -17,4 +17,4 @@ Repository for Network structures and Cloud Computing!
 
 # Builds and Release
 1. Travis CI can be <a href = 'https://travis-ci.com/AashrithChilkepalli'>Here</a>
-2. Releases are made for each assignment.
+
